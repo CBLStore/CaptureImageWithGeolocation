@@ -45,7 +45,7 @@ To enable it:
 
   4. The captured image can be tracked in the Related List of the specified Salesforce record.
      <p align="center">
-      <img src="https://github.com/user-attachments/assets/f5fcd48d-dbc8-4536-bd16-04750e0a1d71" width="300"/>
+      <img src="https://github.com/user-attachments/assets/f5fcd48d-dbc8-4536-bd16-04750e0a1d71" width="500"/>
      </p>
 
 ## Key Use Case
